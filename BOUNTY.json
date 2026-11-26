@@ -1,0 +1,10 @@
+{
+  "slug": "u-mfnakmal-the-comment-above-the-code-35e38026",
+  "title": "The Comment Above the Code",
+  "potUsd": "2",
+  "deadline": "2026-11-26T15:25:00.000Z",
+  "repo": "Nurcholis46/comment-above-code-line",
+  "gate": "1-200",
+  "entry": "// The 42-second timeout is not arbitrary. At 43 the vendor forgets we already paid.",
+  "chars": 84
+}
